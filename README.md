@@ -17,9 +17,9 @@
 <p align="center"><strong>Para faça o dowload abaixo:</strong></p>
 
 <div align="center">
-
-
-
+  <a href="https://github.com/Snowxyrzk/Alura-Destroyer/blob/main/Alura.rar">
+    <img src="https://i.imgur.com/lIGv647.png" width="12%" alt="Download" title="Download"/>
+  </a>
 </div>
 
 ---
