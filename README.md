@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=c6e7f5&text=Alura%20Maker&fontSize=40&fontAlignY=33&fontColor=5dbce4"/></a>
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=c6e7f5&text=Alura%20Destroyer&fontSize=40&fontAlignY=33&fontColor=5dbce4"/></a>
 
 ---
 
@@ -9,7 +9,7 @@
 <h2 align="center"><strong>Automatize seu Alura!</strong></h2>
 
 <p align="center" style="font-size: 16px;">
-  O <strong>Alura Maker</strong> realiza automaticamente as <strong>atividades</strong> na plataforma <strong>Alura</strong>, poupando seu tempo e esforço.
+  O <strong>Alura Destroyer</strong> realiza automaticamente as <strong>atividades</strong> na plataforma <strong>Alura</strong>, poupando seu tempo e esforço.
 </p>
 
 ---
