@@ -28,9 +28,9 @@
 </div>
 
 <p align="center">
-    <a href="https://discord.gg/centralscripts"><img width="15%" alt="Discord (CS)" title="Discord (GD)" src="https://i.imgur.com/r0YUgMR.png"/></a>
+    <a href="https://discord.gg/centralscripts"><img width="12%" alt="Discord (CS)" title="Discord (GD)" src="https://i.imgur.com/r0YUgMR.png"/></a>
   &nbsp;
-    <a href="https://pixgg.com/im_snow"><img width="15%" alt="Doar" title="Doar" src="https://i.imgur.com/yLUUqaa.png"/></a>
+    <a href="https://pixgg.com/im_snow"><img width="12%" alt="Doar" title="Doar" src="https://i.imgur.com/yLUUqaa.png"/></a>
 </p>
 
 <p align="center">
