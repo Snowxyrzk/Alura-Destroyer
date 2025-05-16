@@ -41,9 +41,8 @@
 
 <!-- Créditos -->
 <div align="center">
-  <img src="https://i.imgur.com/CAqIV2G.png" width="150px" alt="Snow Profile"/>
-  <img src="https://i.imgur.com/JydFNRa.png" width="150px" alt="Snow Profile"/>
-  <h3 style="color: #e86a04; animation: pulse 2s infinite;">Criado por iUnknowBr e ! Snow?</h3>
+  <img src="https://i.imgur.com/CHUfGIq.png" width="150px" alt="Snow Profile"/>
+  <h3 style="color: #e86a04; animation: pulse 2s infinite;">Criado por Central Scripts!</h3>
 </div>
 
 
